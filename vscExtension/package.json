@@ -72,11 +72,11 @@
 		"sideload-win": "npx serve --cors -l 5000 --ssl-cert %userprofile%\\certs\\localhost.pem --ssl-key %userprofile%\\certs\\localhost-key.pem"
 	},
 	"devDependencies": {
-		"@stylistic/eslint-plugin-js": "^2.6.1",
+		"@stylistic/eslint-plugin-js": "^2.6.2",
 		"@types/node": "^22.1.0",
 		"@types/vscode": "^1.92.0",
 		"@vscode/vsce": "^2.31.1",
-		"eslint": "^9.8.0",
+		"eslint": "^9.9.0",
 		"eslint-plugin-sonarjs": "^1.0.4",
 		"eslint-plugin-unicorn": "^55.0.0"
 	}
