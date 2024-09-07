@@ -76,7 +76,7 @@
 		"@types/node": "^22.5.1",
 		"@types/vscode": "^1.92.0",
 		"@vscode/vsce": "^3.0.0",
-		"eslint": "^9.9.1",
+		"eslint": "^9.10.0",
 		"eslint-plugin-sonarjs": "^1.0.4",
 		"eslint-plugin-unicorn": "^55.0.0"
 	}
